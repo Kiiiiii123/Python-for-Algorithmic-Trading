@@ -29,4 +29,3 @@ conda install -y ipython # installs IPython shell
 # CUSTOMIZATION
 cd /root/
 wget http://hilpisch.com/.vimrc # Vim configuration
-
