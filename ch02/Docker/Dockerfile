@@ -9,7 +9,7 @@
 FROM ubuntu:latest
 
 # information about maintainer
-MAINTAINER Kiiiiii123
+LABEL maintainer="Kiiiiii123" 
 
 # add the bash script
 ADD install.sh /
